@@ -1,5 +1,4 @@
 package model.test2;
-
 import model.IA;
 
 public class A2 implements IA {
